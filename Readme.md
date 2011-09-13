@@ -1,4 +1,4 @@
-# Filet Capybara
+# Filet Capybara [![Build Status](http://travis-ci.org/xing/filet.png)](http://travis-ci.org/xing/filet)
 
 Filet Capybara provides out of the box integration of filet and capybara
 
