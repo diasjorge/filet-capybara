@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = "filet-capybara"
 
   s.add_dependency('filet', '~>0.2.1')
-  s.add_dependency('capybara', '~>1.1.1')
+  s.add_dependency('capybara', '~>1.0.0')
 
   s.add_development_dependency('rake')
 
